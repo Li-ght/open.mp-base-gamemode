@@ -50,13 +50,14 @@
 
 
 # 服务器使用的插件介绍
+- [MySQL](https://github.com/pBlueG/SA-MP-MySQL) 最好最著名的SA:MP MySQL插件, 此插件允许您在 PAWN 中使用 MySQL
 - [YSI](https://github.com/pawn-lang/YSI-Includes)，是 SA:MP/Pawn 历史最悠久、规模最大、经过大量测试且支持性最好的库，提供了大量的新游戏和语言功能
 - [Pawn.CMD](https://github.com/katursis/Pawn.CMD/releases) 最快的指令处理插件
-- [sscanf](https://github.com/Y-Less/sscanf/releases) 将字符串转换为多个值、整数、浮点数、玩家等
 - [samp-bcrypt](https://github.com/Sreyas-Sreelal/samp-bcrypt/) sa-mp最好的加密插件
 - MerRandom 更好的随机数获取插件, SA-MP自带的random据说挺糟糕的
 
 # 服务器已内置但未使用的插件
+- [sscanf](https://github.com/Y-Less/sscanf/releases) 将字符串转换为多个值、整数、浮点数、玩家等
 - [streamer](https://github.com/samp-incognito/samp-streamer-plugin) 绕过许多SA：MP限制
 - [PawnPlus](https://github.com/IS4Code/PawnPlus) 通过新的构造、数据类型和编程技术扩展了 Pawn 脚本语言的可能性
 - [gvar](https://github.com/samp-incognito/samp-gvar-plugin) 变量系统的扩展，执行时间比属性快得多
