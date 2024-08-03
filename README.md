@@ -20,9 +20,6 @@
 
 因此把关于玩家数据、登录注册、数据库等几类做了简单的分模块处理，尽可能让小白接触到对他们而言太陌生繁琐的开发环境
 
-# 下载地址
-[open.mp基础端1.0.0 by小鸟](https://pan.baidu.com/s/1UM0OjS2XFk1zWbdA6fN93Q) 提取码：SAMP 
-
 # 如何开启服务器
 1. 下载 [USBWebserver](https://www.usbwebserver.net/webserver/)，或者你习惯用的建站软件
 2. 把 USBWebserver 解压至电脑某个地方, 如 C 盘
